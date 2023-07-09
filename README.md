@@ -30,7 +30,7 @@
     - Instance type: t2.medium
     - Security Group (Open): 8080, 9100 and 22 to 0.0.0.0/0
     - Key pair: Select or create a new keypair
-    - User data (Copy the following user data): https://github.com/avinashmamidi/realworld-cicd-pipeline-project/blob/45b4334385ca5fc304188863fb80c9f88c2de491/scripts/install-jenkins.sh
+    - User data (Copy the following user data): https://github.com/emidinho/realworld-cicd-pipeline-project/blob/main/scripts/install-jenkins.sh
     - Launch Instance
 
 3) SonarQube
